@@ -1,9 +1,8 @@
 _repo: The-Beaver-Volume-1-No-10-July-1921_46574
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46574/46574-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46574-h/images/cover.jpg
 creator:
   author:
     agent_name: Hudson's Bay Company
@@ -16,6 +15,8 @@ creator:
     gutenberg_agent_id: '2095'
     url: http://www.gutenberg.org/2009/agents/2095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46574#The-Beaver-Volume-1-No-10-July-1921
 gutenberg_issued: '2014-08-13'
 gutenberg_type: Text
 identifiers:
